@@ -9,7 +9,7 @@ int size =5;
 int nums [] = {15,1,24,14,29};
 int smallest = INT_MAX;
 int largest = INT_MIN;
-for (int i = 0; i < size; i++)
+for ( i = 0; i < size; i++)
 {
     // if (nums[i]< smallest) Method 1
     // {smallest = nums[i];
